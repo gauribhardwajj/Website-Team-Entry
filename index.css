@@ -24,6 +24,10 @@
   #support p{
     font-size: 14px !important;
   }
+
+    #scrolltoabout h2{
+    padding-top: 50px !important;
+  }
 }
 
 #scrolltoabout{
