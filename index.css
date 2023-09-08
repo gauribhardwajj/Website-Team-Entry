@@ -26,8 +26,12 @@
   }
 
     #scrolltoabout h2{
-    padding-top: 70px !important;
+    padding-top: 80px !important;
+    font-size: 25px !important;
   }
+
+    #scrolltogallery h2{
+        font-size: 25px !important;
 }
 
 #scrolltoabout{
