@@ -22,7 +22,7 @@
 
 @media only screen and (max-width: 500px) {
   #support p{
-    font-size: 10px;
+    font-size: 14px !important;
   }
 }
 
