@@ -22,11 +22,11 @@
 
 @media only screen and (max-width: 500px) {
   #support p{
-    font-size: 20% !important;
+    font-size: 14px !important;
   }
 
     #scrolltoabout h2{
-    padding-top: 50px !important;
+    padding-top: 70px !important;
   }
 }
 
